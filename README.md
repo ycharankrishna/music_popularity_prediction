@@ -30,3 +30,5 @@
 8. **Deployment and Monitoring:**
    - Once satisfied with the model's performance, deploy it to predict music popularity for new tracks.
    - Continuously monitor and retrain the model with updated data to maintain its accuracy and relevance.
+
+### PPT Link : https://tome.app/embedded-75d/untitled-tome-clpmivh9v08phpr7h7bll928y
